@@ -7,27 +7,32 @@
 
 - 📝 I regularly write articles on [https://www.fernandoaparicio.net](https://www.fernandoaparicio.net) or [https://dev.to/faparicio](https://dev.to/faparicio)
 
-<h3 align="center">Current stack:</h3>
-<p align="center">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/symfony.svg" alt="alchemist_devel" height="28px" width="28px" />
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="alchemist_devel" height="28px" width="28px" />
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="alchemist_devel" height="28px" width="28px" />
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mariadb.svg" alt="alchemist_devel" height="28px" width="28px" />
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hugo.svg" alt="alchemist_devel" height="28px" width="28px" />
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jenkins.svg" alt="alchemist_devel" height="28px" width="28px" />
-</p>
+### What I use?
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Also I know
+
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/alchemist_devel" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alchemist_devel" height="28px" width="28px" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCi-AcvpjDf1N9qJFQ2R_Zpg" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alchemist_devel" height="28px" width="28px" />
-  </a>
-  <a href="https://www.instagram.com/alchemist_devel" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alchemist_devel" height="28px" width="28px" />
-  </a>
-</p>
+### I'm learning
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### Connect with me
+
+[![Twitter](https://img.shields.io/badge/alchemist_devel-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alchemist_devel)
+[![Instagram](https://img.shields.io/badge/alchemist_devel-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alchemist_devel)
+[![Youtube](https://img.shields.io/badge/Alchemist_devel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi-AcvpjDf1N9qJFQ2R_Zpg/featured)
