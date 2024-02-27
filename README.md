@@ -3,7 +3,7 @@
 
 - DDD with TDD evangelist
 
-- 🌱 I’m currently learning **VueJs, Kotlin and Go**
+- 🌱 I’m currently learning **Kotlin and Go**
 
 - 📝 I regularly write articles on [https://www.fernandoaparicio.net](https://www.fernandoaparicio.net) or [https://dev.to/faparicio](https://dev.to/faparicio)
 
